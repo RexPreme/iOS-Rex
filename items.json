@@ -1,0 +1,193 @@
+{
+  "variants": [
+    {
+      "name": "Custom Keyword",
+      "picture": "https://pbs.twimg.com/media/Dn5TcbOU8AE5Znu.jpg",
+      "keyword": "Custom",
+      "colors": "Custom",
+      "category": "Custom",
+      "price": "",
+      "sizes": "Custom"
+    },
+    {
+      "name": "Group Tee",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180918/ec48253d2077457ebe09914fe2a2f85e_sqr.jpg",
+      "keyword": "group",
+      "colors": "Red,Dark Pink,Dark Green,Heather Grey,Navy,Bright Orange,Slate,Black,White",
+      "category": "new",
+      "price": "$36 / £38 / €46",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "First & Best Tee",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/tops-sweaters/df35d676e3cd4d10a0d4b7804cab82d4_sqr.jpg",
+      "keyword": "Best Tee",
+      "colors": "Gold, Light Green,Navy,Purple,Black,White, Orange",
+      "category": "new",
+      "price": "$60 / £52 / €60",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Dragon Work Jacket",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/jackets/5d052353531c456e81373740566ee8ed_sqr.jpg",
+      "keyword": "Dragon Work",
+      "colors": "Black,Red",
+      "category": "new",
+      "price": "$278 / £248 / €278",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Liquid Swords Tee",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180918/b5e933e9f7ce4c3d918f0ab5cb8a1770_sqr.jpg",
+      "keyword": "Liquid Swords",
+      "colors": "Red,Dark Green,Navy,Heather Grey,Bright Orange,Slate,Black,White",
+      "category": "new",
+      "price": "$44 / £44 / €50",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Remember Tee",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180918/9dfd6445b72e423c97151f2a51b843c4_sqr.jpg",
+      "keyword": "Remember",
+      "colors": "Red,Dark Pink,Navy,Heather Grey,Bright Orange,Slate,Black,White",
+      "category": "new",
+      "price": "$36 / £38 / €46",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Supreme®/Lucetta® Magnetic Bike Lights",
+      "picture": "https://www.supremecommunity.com/u/season/add/20171010/d7aead6c2be14e7c81a8e8919a8bf09f_sqr.jpg",
+      "keyword": "Magnetic Bike Lights",
+      "colors": "Black,Red",
+      "category": "new",
+      "price": "$34 / £30 / €34",
+      "sizes": "One Size"
+    },
+    {
+      "name": "Bone Varsity Jacket",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/jackets/8fe316762a7a4c3e8ec11a9400d592f7_sqr.jpg",
+      "keyword": "Bone Varsity Jacket",
+      "colors": "Black,Navy,Red",
+      "category": "new",
+      "price": "$438 / £398 / €438",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Eternal Tee",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180918/0a738ed242094488be30f86c9b60f223_sqr.jpg",
+      "keyword": "Eternal Tee",
+      "colors": "Red,Dark Pink,Dark Green,Navy,Pale Yellow,Slate,Black,White",
+      "category": "new",
+      "price": "$36 / £38 / €46",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Payphone Tee",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180918/f9b279023a6c406dac7205f5558e5f9c_sqr.jpg",
+      "keyword": "Payphone Tee",
+      "colors": "Red,Dark Pink,Natural,Navy,Heather Grey,Bright Orange,Slate,Black,White",
+      "category": "new",
+      "price": "$36 / £38 / €46",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Faces Tee",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180918/0447c9b89ba949648fea70844717b0e3_sqr.jpg",
+      "keyword": "Faces Tee",
+      "colors": "Red,Dark Pink,Natural,Navy,Heather Grey,Bright Orange,Slate,Black,White",
+      "category": "new",
+      "price": "$36 / £38 / €46",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Flowers Hooded Sweatshirt",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/sweatshirts/6bfd1dee84d546f48b53e61d8981c92a_sqr.jpg",
+      "keyword": "Flowers Hooded",
+      "colors": "Red,Navy,Mustard,Ash Grey,Black,Bright Royal,Light Olive",
+      "category": "new",
+      "price": "$158 / £148 / €158",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Dragon Work Pant",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/pants/09526b5e34b6425ab107375d49f896b6_sqr.jpg",
+      "keyword": "Dragon Work Pant",
+      "colors": "Black,Red",
+      "category": "new",
+      "price": "$168 / £148 / €168",
+      "sizes": "30,32,34,36"
+    },
+    {
+      "name": "Tartan L/S Flannel Shirt",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/shirts/ffeef7582a964c419339a9f1ea08cc58_sqr.jpg",
+      "keyword": "Flannel Shirt",
+      "colors": "Red,Green,Tan",
+      "category": "new",
+      "price": "$128 / 109 / €128",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Reflective Keychain",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180920f490a1d9b52a4f15a0e9ef67349ac38f_sqr.jpg",
+      "keyword": "Reflective Keychain",
+      "colors": "Silver,Brilliant Green",
+      "category": "new",
+      "price": "$14 / £12 / €14",
+      "sizes": "One Size"
+    },
+    {
+      "name": "Rope Stripe L/S Top",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/tops-sweaters/b59cad66b95c474f9ebd11ab2d3e766d_sqr.jpg",
+      "keyword": "Rope Stripe",
+      "colors": "Dark Red,Off-White,Dark Green,Light Brown,Purple,Black",
+      "category": "new",
+      "price": "$98 / £86 / €98",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Portrait Hooded Sweatshirt",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/sweatshirts/58ef4e89f7f64aeab5b6b53957787c4d_sqr.jpg",
+      "keyword": "Portrait Hooded Sweatshirt",
+      "colors": "Cardinal,Black,White,Bright Royal,Light Olive",
+      "category": "new",
+      "price": "$158 / £148 / €158",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "System Tee",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180918/a1947cbc54484b2d973772c4ef460de0_sqr.jpg",
+      "keyword": "System Tee",
+      "colors": "Burgundy,Dark Pink,Navy,Bright Orange,Ash Grey,Slate,Black,White",
+      "category": "new",
+      "price": "$36 / £38 / €46",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Liquid Swords Beanie",
+      "picture": "https://www.supremecommunity.com/u/season/add/20180920cef13644e4744419bfd1698fe26102fc_sqr.jpg",
+      "keyword": "Liquid Swords Beanie",
+      "colors": "Black",
+      "category": "new",
+      "price": "$38 / £30 / €38",
+      "sizes": "One Size"
+    },
+    {
+      "name": "Snap Button Pocket Camp Cap",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/hats/3d08c78d7464407cbd83df24196540bf_sqr.jpg",
+      "keyword": "Button Pocket Camp",
+      "colors": "Red,Black Watch Plaid,Magenta,Teal,Moss,Black,White",
+      "category": "new",
+      "price": "$54 / £50 / €56",
+      "sizes": "One Size"
+    },
+    {
+      "name": "Eternal Practice Jersey",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/tops-sweaters/5817712af967498cb6f78cbd088a32a4_sqr.jpg",
+      "keyword": "Eternal Practice",
+      "colors": "Black,White,Teal,Burgundy",
+      "category": "new",
+      "price": "$88 / £78 / €88",
+      "sizes": "Small,Medium,Large,XLarge"
+    }
+  ]
+}
