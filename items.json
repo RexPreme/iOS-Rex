@@ -29,11 +29,20 @@
     },
     {
       "name": "Supreme®/Hanes® Tagless Tees (3 Pack)",
-      "picture": "https://assets.supremenewyork.com/156774/ma/r3cO9JxIjiI.jpg",
+      "picture": "https://www.supremecommunity.com/u/season/fall-winter2018/jackets/0d7af898a43f4aefbd7dde0a2209e01e_sqr.jpg",
       "keyword": "Tagless Tees",
       "colors": "White,Black",
       "category": "accessories",
       "price": "Test Product",
+      "sizes": "Small,Medium,Large,XLarge"
+    },
+    {
+      "name": "Embroidered Pocket Tee",
+      "picture": "https://assets.supremenewyork.com/158323/ma/zxa8j9-V8IA.jpg",
+      "keyword": "Embroidered Pocket Tee",
+      "colors": "Red",
+      "category": "new",
+      "price": "Test New",
       "sizes": "Small,Medium,Large,XLarge"
     }
   ]
